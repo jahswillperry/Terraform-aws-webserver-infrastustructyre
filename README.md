@@ -62,7 +62,7 @@ Defines CloudWatch alarms to send notifications when ASG state changes and scali
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/terraform-aws-webserver-infrastructure.git
+git clone https://github.com/jahswillperry/terraform-aws-webserver-infrastructyre.git
 ```
 
 2. Update the necessary placeholder values in the Terraform configuration files (region, bucket names, IAM role name, etc.).
